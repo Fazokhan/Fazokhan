@@ -3,9 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Builder-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Open Source Builder" />
+  <img src="https://img.shields.io/badge/Owner-NEXTOS-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Owner NEXTOS" />
   <img src="https://img.shields.io/badge/Role-Lead%20Developer-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Lead Developer" />
-  <img src="https://img.shields.io/badge/Focus-Android%20Systems-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Android Systems" />
+  <img src="https://img.shields.io/badge/Profession-Telecom%20Engineer-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Telecom Engineer" />
+  <img src="https://img.shields.io/badge/Android%20Development-Since%202012-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Android development since 2012" />
   <img src="https://img.shields.io/github/followers/Fazokhan?style=for-the-badge&labelColor=0C0D10&color=F5B841&label=Followers" alt="GitHub followers" />
 </p>
 
@@ -13,9 +14,25 @@
 
 ## About
 
-I'm **Fazo Khan** (`Fazokhan`), an Android systems engineer and open source developer. My work sits close to the metal: patching Dalvik bytecode (smali) in system APKs, compiling and optimizing on-device with `dex2oat`, tuning `build.prop` for smoothness, and debugging init and boot behavior when something goes wrong at startup.
+I'm **Fazo Khan** (`Fazokhan`), owner of **NEXTOS** and its lead developer, and a telecom engineer by profession. I've been developing for Android since 2012, and I've spent over a decade learning how phones work from the inside out.
 
-I lead development and maintenance on my projects, and I believe good software is built in the open. Clear code, honest documentation, and a stable release matter more to me than a flashy feature list.
+My work sits close to the metal: patching Dalvik bytecode (smali) in system APKs, compiling and optimizing on-device with `dex2oat`, tuning `build.prop` for smoothness, and debugging init and boot behavior when something goes wrong at startup.
+
+## Journey
+
+| Period | Milestone |
+| :--- | :--- |
+| 2012 | Started Android development on HTC devices |
+| After HTC | Moved to OnePlus phones |
+| 2021 | Switched to Xiaomi devices, focused on MIUI and HyperOS |
+| Today | Lead developer of NEXTOS, modding Xiaomi SystemUI and Settings |
+
+## What I love
+
+- **Modding Xiaomi SystemUI:** status bar, notification shade, Control Center, and the animations behind them
+- **Reshaping Settings layouts:** rebuilding how options are grouped and presented
+- **Experimenting daily:** trying ideas on real hardware, measuring what changes, and keeping what works
+- **Getting better every day:** every experiment is a lesson, and every release is a step forward
 
 ## What I work on
 
