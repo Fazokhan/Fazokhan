@@ -3,14 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=F5B841&center=true&vCenter=true&width=680&lines=Fazo+Khan+%C2%B7+Android+Systems+Engineer;Open+source+by+default;Smali-level+craft%2C+built+in+the+open;Lead+developer+and+maintainer" alt="Typing animation" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Builder-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Open Source Builder" />
   <img src="https://img.shields.io/badge/Role-Lead%20Developer-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Lead Developer" />
   <img src="https://img.shields.io/badge/Focus-Android%20Systems-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Android Systems" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fazokhan.Fazokhan&left_color=0C0D10&right_color=F5B841&left_text=profile%20views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Fazokhan?style=for-the-badge&labelColor=0C0D10&color=F5B841&label=Followers" alt="GitHub followers" />
 </p>
 
 ---
@@ -51,22 +47,11 @@ I share what I build, document how it works, and credit the people who help. Ope
   <img src="https://img.shields.io/badge/build.prop-Performance%20tuning-F5B841?style=flat-square&labelColor=0C0D10" alt="build.prop" />
 </p>
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fazokhan&show_icons=true&theme=dark&hide_border=true&bg_color=0C0D10&title_color=F5B841&icon_color=F5B841&text_color=C9CDD6" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazokhan&layout=compact&theme=dark&hide_border=true&bg_color=0C0D10&title_color=F5B841&text_color=C9CDD6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fazokhan&theme=github-dark&hide_border=true" alt="Activity graph" />
-</p>
-
 ## Connect
 
 <p align="center">
-  <a href="https://t.me/Fazokhan"><img src="https://img.shields.io/badge/Telegram-Fazo%20Khan-F5B841?style=for-the-badge&logo=telegram&logoColor=0C0D10&labelColor=0C0D10" alt="Telegram" /></a>
-  <a href="https://github.com/Fazokhan"><img src="https://img.shields.io/badge/GitHub-Fazokhan-F5B841?style=for-the-badge&logo=github&logoColor=0C0D10&labelColor=0C0D10" alt="GitHub" /></a>
+  <a href="https://t.me/Fazokhan"><img src="https://img.shields.io/badge/Telegram-Fazo%20Khan-F5B841?style=for-the-badge&labelColor=0C0D10" alt="Telegram" /></a>
+  <a href="https://github.com/Fazokhan"><img src="https://img.shields.io/badge/GitHub-Fazokhan-F5B841?style=for-the-badge&labelColor=0C0D10" alt="GitHub" /></a>
 </p>
 
 ---
